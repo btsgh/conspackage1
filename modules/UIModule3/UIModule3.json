@@ -1,0 +1,47 @@
+{
+  "gitSyncId": "68c963b4a2aa3b333cadf44b_ca8446fb-da2e-4567-81f6-e03619c9f510",
+  "moduleUUID": "ac6df130-2b59-4b47-8d5d-3d93fe3de6c4",
+  "type": "UI_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "ceryxetxkd",
+        "sectionName": ""
+      }
+    ],
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 761,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 791,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1242,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 91,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "UIModule3",
+    "outputsForm": [
+      {
+        "children": [],
+        "id": "jgodjrbtpe",
+        "sectionName": ""
+      }
+    ]
+  }
+}
